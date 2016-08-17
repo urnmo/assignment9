@@ -1,0 +1,57 @@
+.block {
+    display: inline-block;
+    width: 35%;
+    height: 100%;
+    padding: 1%;
+    margin: 1%;
+    border: 5px solid darkslategray;
+}
+
+.block2 {
+    display: inline-block;
+    width: 35%;
+    height: 100%;
+    padding: 1%;
+    margin: 1%;
+    border: 5px solid darkslategray;
+}
+
+.woman {
+display: inline-block;
+width: 35%;
+height: 100%;
+margin: 1%;
+
+}
+
+.man {
+    display: inline-block;
+    width: 35%;
+    height: 100%;
+    margin: 1%;
+   
+}
+
+
+.yup {
+    display: inline-block;
+
+}
+
+.nope {
+    display: inline-block;
+}
+
+.yup2 {
+    display: inline-block;
+
+}
+
+.nope2 {
+    display: inline-block;
+}
+
+.opacity {
+    opacity: .35;
+
+}
